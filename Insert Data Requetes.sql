@@ -1,4 +1,5 @@
 --DATA:
+-- THIS IS RANDOMLY-GENERATED-data
 -- Insert sample data into Fournisseur
 INSERT INTO Fournisseur (Fournisseur_ID, Nom, Telephone, Email) VALUES (1, 'AntikSupply Ltd.', '555-0101', 'contact@antiksupply.com');
 INSERT INTO Fournisseur (Fournisseur_ID, Nom, Telephone, Email) VALUES (2, 'Vintage Traders', '555-0202', 'info@vintagetraders.net');
