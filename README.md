@@ -56,8 +56,8 @@ SELECT * FROM articles WHERE siècle = 'XVIII';
 ```
 
 ## 🗄 Structure de la Base de Données
-![Diagramme Entité-Association](https://drive.google.com/file/d/14LWlIXXiWsu0EZHDazmG62ZAz4gVrH_m/view?usp=sharing)
-![Diagramme Relationnel](https://drive.google.com/file/d/1EP9_Nzj8EUiNOBWusuESMJs-PPd8cu4U/view?usp=sharing)
+![Diagramme Entité-Association](Capture d'écran 2025-04-17 214022.png)
+![Diagramme Relationnel](MR.png)
 
 
 Tables principales :
