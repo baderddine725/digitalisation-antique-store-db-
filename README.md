@@ -56,8 +56,8 @@ SELECT * FROM articles WHERE siècle = 'XVIII';
 ```
 
 ## 🗄 Structure de la Base de Données
-![Diagramme Entité-Association]([docs/Modele_Conceptuel_Diagramme.png](https://drive.google.com/file/d/14LWlIXXiWsu0EZHDazmG62ZAz4gVrH_m/view?usp=sharing)
-![Diagramme Relationnel]([docs/Modele_Relationnel.png]([https://drive.google.com/file/d/14LWlIXXiWsu0EZHDazmG62ZAz4gVrH_m/view?usp=sharing](https://drive.google.com/file/d/1EP9_Nzj8EUiNOBWusuESMJs-PPd8cu4U/view?usp=sharing))
+![Diagramme Entité-Association]([https://drive.google.com/file/d/14LWlIXXiWsu0EZHDazmG62ZAz4gVrH_m/view?usp=sharing])
+![Diagramme Relationnel]([https://drive.google.com/file/d/1EP9_Nzj8EUiNOBWusuESMJs-PPd8cu4U/view?usp=sharing])
 
 
 Tables principales :
